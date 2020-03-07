@@ -1,14 +1,13 @@
 # Chi Extra Middleware
 This package provides additional middleware
 
-## Install 
-
-`go get -u github.com/Ferluci/chi-extra-middleware`
-
 ## Extra Middleware
 * **ZeroLogger** - logs all incoming requests with their latency using [zerolog](https://github.com/rs/zerolog)
 * **RealIP** - detects user real ip address
 * **Metrics** - prometheus metrics for incoming requests
+
+## Install
+`go get -u github.com/Ferluci/chi-extra-middleware`
 
 ## Examples
 [Here](https://github.com/Ferluci/chi-extra-middleware/blob/master/_examples/)

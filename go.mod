@@ -1,4 +1,4 @@
-module github.com/Ferluci/chi-extra-middleware
+module github.com/ferluci/chi-extra-middleware
 
 go 1.14
 

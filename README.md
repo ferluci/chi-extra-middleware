@@ -7,10 +7,10 @@ This package provides additional middleware
 * **Metrics** - prometheus metrics for incoming requests
 
 ## Install
-`go get -u github.com/Ferluci/chi-extra-middleware`
+`go get -u github.com/ferluci/chi-extra-middleware`
 
 ## Examples
-[Here](https://github.com/Ferluci/chi-extra-middleware/blob/master/_examples/)
+[Here](https://github.com/ferluci/chi-extra-middleware/blob/master/_examples/)
 
 ## Inspired By
 [Tomasen RealIP](https://github.com/tomasen/realip)

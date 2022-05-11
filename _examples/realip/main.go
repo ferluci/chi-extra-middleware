@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	extmiddleware "github.com/Ferluci/chi-extra-middleware"
-	"github.com/go-chi/chi"
 	"net/http"
+
+	extmiddleware "github.com/ferluci/chi-extra-middleware"
+	"github.com/go-chi/chi"
 )
 
 func main() {
